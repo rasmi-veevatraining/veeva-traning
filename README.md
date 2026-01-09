@@ -1,4 +1,4 @@
-# VeEva Training 🚀
+# Veeva Training 🚀
 
 This repository contains:
 - JIRA tasks
