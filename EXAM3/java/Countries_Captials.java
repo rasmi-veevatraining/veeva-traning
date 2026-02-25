@@ -1,7 +1,7 @@
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 import java.util.*;
-class Quest1 {
+class Countries_Captials {
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
         Scanner sc=new Scanner(System.in);
@@ -126,3 +126,4 @@ class Quest1 {
         }
     }
 }
+
